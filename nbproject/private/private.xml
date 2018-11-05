@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/aleksandr/node/bricks_calculator/src/components/typeItem.js</file>
+            <file>file:/home/aleksandr/node/bricks_calculator/src/components/resultPage.js</file>
+            <file>file:/home/aleksandr/node/bricks_calculator/src/components/widthBtn.js</file>
+            <file>file:/home/aleksandr/node/bricks_calculator/public/style.less</file>
+            <file>file:/home/aleksandr/node/bricks_calculator/src/components/wallFields.js</file>
+            <file>file:/home/aleksandr/node/bricks_calculator/src/containers/App.js</file>
+            <file>file:/home/aleksandr/node/bricks_calculator/src/actions/actionWallTypes.js</file>
+            <file>file:/home/aleksandr/node/bricks_calculator/src/reducers/wallTypeController.js</file>
+            <file>file:/home/aleksandr/node/bricks_calculator/src/components/wallsSizes.js</file>
+        </group>
+    </open-files>
+</project-private>
