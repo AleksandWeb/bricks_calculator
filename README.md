@@ -1,2 +1,2 @@
 # bricks_calculator
-BricksCalculator
+BricksCalculator ReactJS learning
